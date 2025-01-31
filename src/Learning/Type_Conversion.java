@@ -1,3 +1,5 @@
+package Learning;
+
 public class Type_Conversion {
     public static void main(String[] args) {
         // Implicit conversion or Widening.   (Automatic Conversion)
