@@ -11,6 +11,5 @@ public class Arithmetic_Operators {
         System.out.println("Substraction: "+(a-b));
         System.out.println("Multiplication: "+(a*b));
         System.out.print("Modulus: "+(a%b));
-
     }
 }
