@@ -2,7 +2,7 @@ package ProblemSolving;
 
 import java.util.Scanner;
 
-public class P30IsSortingArray {
+public class P30isSortedArray {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter number of elements: ");
